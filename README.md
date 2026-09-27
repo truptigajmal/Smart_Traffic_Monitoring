@@ -166,6 +166,13 @@ Smart_Traffic_Monitoring/
 └── vehicle_percentage_report.csv
 ```
 
+## 📦 Installation
+
+Install the required Python libraries:
+
+```bash
+py -3.10 -m pip install -r requirements.txt
+
 ## ▶️ How to Run the Project
 
 ### 1. Open the project folder
