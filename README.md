@@ -18,6 +18,10 @@ The Smart Traffic Monitoring System analyzes traffic video and provides useful i
 * Automated traffic reports
 * Interactive web dashboard
 
+## 📸 Dashboard Preview
+
+![Smart Traffic Monitoring Dashboard](dashboard_screenshot.png)
+
 ## 🎯 Objectives
 
 1. Detect vehicles automatically using YOLO.
