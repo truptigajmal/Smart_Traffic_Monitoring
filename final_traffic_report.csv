@@ -1,0 +1,10 @@
+Metric,Value
+Cars Passed,18
+Motorcycles Passed,0
+Buses Passed,0
+Trucks Passed,12
+Total Vehicles Passed,30
+Average Vehicles,19.56
+Maximum Vehicles,30
+Most Common Vehicle,Cars
+Most Common Traffic Density,HIGH
